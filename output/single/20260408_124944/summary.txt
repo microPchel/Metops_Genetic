@@ -1,0 +1,18 @@
+CONFIG
+RunConfig{n=50, m=3, p=100, eps=0.05, th=0.95, seed=42, k=4, t=4, maxTimeMillis=10000, mutationType='single_bit', crossoverType='middle'}
+
+RESULT
+epochsCount=55
+elapsedMillis=38
+thresholdReached=true
+bestFitness=0.96
+bestGenome=01111100100010101000101000101101011111000111000010
+
+OPERATIONS
+vectorWrites=280408
+intLightOps=1489942
+intHeavyOps=2750
+floatLightOps=22900
+floatHeavyOps=16861
+arrayReads=1960758
+dynamicArrayChanges=16659

@@ -1,0 +1,12 @@
+Best configuration found:
+mutationType=subvector
+p=100
+eps=0.05
+k=4
+t=4
+runs=2
+successRate=0.0
+meanElapsedMillis=5006.0
+meanEpochsCount=36801.5
+meanBestFitness=0.8400000000000001
+bestObservedFitness=0.88

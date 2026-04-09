@@ -1,0 +1,7 @@
+varyParam,varyValue,runIndex,seed,epochsCount,elapsedMillis,thresholdReached,bestFitness,runFolder
+n,40,1,42,49,25,true,0.95,n_40_run_01
+n,40,2,43,36,11,true,0.95,n_40_run_02
+n,50,1,1042,55,8,true,0.96,n_50_run_01
+n,50,2,1043,54,5,true,0.96,n_50_run_02
+n,60,1,2042,60,8,true,0.95,n_60_run_01
+n,60,2,2043,66,8,true,0.95,n_60_run_02

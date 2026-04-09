@@ -1,0 +1,18 @@
+CONFIG
+RunConfig{n=40, m=3, p=100, eps=0.05, th=0.95, seed=42, k=4, t=4, maxTimeMillis=5000, mutationType='single_bit', crossoverType='middle', mode='quality-study', varyParam='n', varyValues='40,50', studyRuns=1}
+
+RESULT
+epochsCount=49
+elapsedMillis=23
+thresholdReached=true
+bestFitness=0.95
+bestGenome=1010011110100001011110000101001000100010
+
+OPERATIONS
+vectorWrites=200345
+intLightOps=1103203
+intHeavyOps=2450
+floatLightOps=20400
+floatHeavyOps=15054
+arrayReads=1401125
+dynamicArrayChanges=19903
